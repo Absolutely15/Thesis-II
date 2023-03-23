@@ -1,2 +1,2 @@
-# Project-II
-Shortest Path Algorithms( A*, Dijkstra, BFS and DFS) Visualized in Unity
+# Thesis-II
+Shortest Path Algorithms( A*, Dijkstra, BFS and DFS) visualized in Unity
